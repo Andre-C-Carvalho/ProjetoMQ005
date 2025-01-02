@@ -37,7 +37,7 @@ menu > ul{
     color: black;
 }
 
-menu > ul > li > a{
+menu a{
     display: block;
     padding: 10px;
     text-decoration: none;
@@ -47,7 +47,7 @@ menu > ul > li > a{
     border-top: 2px solid grey;
 }
 
-menu > ul > li > a:hover{
+menu a:hover{
     background-color: grey;
 }
 
